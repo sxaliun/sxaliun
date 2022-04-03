@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khaliun,
-- 👀 I’m interested in many game development
+- 👀 I’m interested in game development.
 - 🌱 I’m currently learning JS, CSS and HTML. 
 - 💞️ My learning goal is both BE (ruby += on rails) and FE.
 - 📫 I am friendly ;)
